@@ -3,6 +3,8 @@ node_modules
 
 # macOS system file
 .DS_Store
+.idea
 
 # umi
 .umi
+
